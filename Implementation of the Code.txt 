@@ -1,0 +1,14 @@
+IMPLEMENTATION OF THE CODE
+
+
+1. Open the the tools for development of AVR microcontrollers and read carefully by clicking: "https://github.com/wykys/AVR-tools"
+
+2. Type git clone https://github.com/wykys/AVR-tools" to make a local copy of the repository. 
+3. Replace the main file found on this page.
+4. Make the physical connection of the components
+5. Open Terminal
+6. Type "cd" and then the location of the repository.
+7. Type "make build_and_flash"
+8. VOILA
+
+
